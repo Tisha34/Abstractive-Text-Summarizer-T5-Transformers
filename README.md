@@ -1,6 +1,6 @@
 # Text Summarizer using Transformers (T5)
 
-![Text Summarizer Snapshot](Images/Snapshot of text summarizer.png")
+![Text Summarizer Snapshot](Images/Snapshot of text summarizer.png)
 
 Abstractive text summarization built by fine-tuning T5-small on dialogue data, served through a FastAPI backend with a simple HTML frontend.
 
