@@ -1,4 +1,4 @@
-# Text Summarizer using Transformers (T5)
+# Abstractive Text Summarizer using Transformers (T5)
 
 ![Text Summarizer Snapshot](Images/text_summarizer.png)
 
